@@ -5,6 +5,9 @@ This React.js project uses <a href="https://www.vintasoft.com/vstwain-dotnet-ind
 * Acquire images from TWAIN device
 * Preview scanned images
 
+## Screenshot
+<img src="web-twain-scanning-react-tutorial.png" alt="Vintasoft Web TWAIN Scanning Tutorial for React.js">
+
 ## Usage
 If you want to read tutorial, which describes how to create this project from scratch, please read tutorial <a href="https://www.vintasoft.com/docs/vstwain-dotnet-web/Programming-Twain_Web-Tutorials-Acquire_images_from_TWAIN_scanner_in_React.js.html" target="_blank">Acquire images from TWAIN scanner in React.js application</a>.
 
