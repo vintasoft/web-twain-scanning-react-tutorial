@@ -25,3 +25,7 @@ If you want to use this ready-to-use project, please do the following steps:
    ```
    ng start
    ```
+
+5. If VintaSoft Web TWAIN service is not installed on your Windows computer:
+* Click "Download installer of VintaSoft Web TWAIN service" link on web page, download the installer and install VintaSoft Web TWAIN service to your local computer. VintaSoft Web TWAIN service serves HTTP-requests from VintaSoft TWAIN JavaScript API and allows to work with local TWAIN scanners.
+* Reload web page and try to work with local TWAIN scanners.
