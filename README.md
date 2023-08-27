@@ -1,7 +1,7 @@
 # Vintasoft Web TWAIN Scanning Tutorial for React.js
 
 This React.js project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This React.js project uses <a href="https://www.vintasoft.com/vstwain-dotnet-index.html" target="_blank">VintaSoft TWAIN .NET SDK</a> and demonstrates how to work with TWAIN scanner on a Windows computer:
+This React.js project uses <a href="https://www.vintasoft.com/vstwain-dotnet-index.html" target="_blank">VintaSoft TWAIN .NET SDK</a> and demonstrates how to work with TWAIN scanners on a Windows computer:
 * Acquire images from TWAIN device
 * Preview scanned images
 
