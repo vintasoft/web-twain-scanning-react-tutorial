@@ -12,7 +12,7 @@ export class WebTwainScanningReactTutorial extends Component {
               <br />
               <br />
               <a href="https://www.vintasoft.com/docs/vstwain-dotnet-web/Licensing-Twain_Web-Evaluation.html" target="_blank">Read how to get the evaluation license</a><br />
-              <a href="/VSWebTwainService14_1.zip">Download installer of VintaSoft Web TWAIN service</a><br />
+              <a href="https://www.vintasoft.com/zip/VintasoftWebTwainService-15.0.0.zip">Download installer of VintaSoft Web TWAIN service</a><br />
             </div>
         );
     }
@@ -95,11 +95,7 @@ export class WebTwainScanningReactTutorial extends Component {
       var Vintasoft = window.Vintasoft;
 
       // URL to the VintaSoft Web TWAIN service
-      var serviceUrl;
-      if (window.location.protocol === 'http:')
-        serviceUrl = 'http://localhost:25319/api/VintasoftTwainApi';
-      else
-        serviceUrl = 'https://localhost:25329/api/VintasoftTwainApi';
+      var serviceUrl = 'https://localhost:25329/api/VintasoftTwainApi';
       // a Web API controller that allows to work with TWAIN devices
       var twainService = new Vintasoft.Shared.WebServiceControllerJS(serviceUrl);
 
